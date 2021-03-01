@@ -1,0 +1,12 @@
+#divHeader {
+	grid-area: header;
+}
+
+.grid-container {
+	grid-template-areas: 
+	'header';
+}
+
+#logo {
+	padding: 20px;
+}
